@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+/shelf/
+/workspace.xml
+**/launchSettings.json
